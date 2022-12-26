@@ -2,7 +2,7 @@
 
 A train car manager for a commercial train.
 
-##Menu Options 
+## Menu Options 
 
 F - Move Cursor Forward\
 Moves the cursor forward one car (if a next car exists).
