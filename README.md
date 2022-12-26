@@ -16,7 +16,7 @@ Inserts a new empty car after the cursor. If the cursor is null (i.e. the train 
 R - Remove Car At Cursor\
 Removes the car at current position of the cursor. After deletion, the cursor is set to the next car in the list if one exists, otherwise the previous car. If there is no previous car, the list is empty and the cursor is set to null.
 
-L - Set Load At Cursor <Name> <Weight> <Value> <Is Dangerous>
+L - Set Load At Cursor <Name> <Weight> <Value> <Is Dangerous>\
 Sets the product load at the current position in the list.
 
 S - Search For Product <name>\
